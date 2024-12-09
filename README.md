@@ -90,11 +90,11 @@ Make sure your environment is set up with the following tools:
 
 Below are some visuals included in the project:
 
-### Test Set
-![Test Set](Test.png)
-
 ### Training Set
 ![Training Set](Train.png)
+
+### Test Set
+![Test Set](Test.png)
 
 ---
 

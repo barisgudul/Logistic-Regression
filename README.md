@@ -25,6 +25,9 @@ The dataset used in this project consists of three columns:
 | 26      | 43000               | 0             |
 | 27      | 57000               | 0             |
 | 19      | 76000               | 0             |
+| 27      | 58000               | 0             |
+| 27      | 84000               | 0             |
+| 32      | 150000              | 1             |
 
 This dataset provides the foundation for applying logistic regression to predict purchase decisions based on age and estimated salary.
 
